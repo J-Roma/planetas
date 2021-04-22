@@ -1,0 +1,93 @@
+[
+    {
+        "id": "1",
+        "tamaño": "4880",
+        "distancia_sol": "57910000",
+        "distancia_tierra": "91690000",
+        "nombre": "Mercurio"
+    },
+    {
+        "id": "2",
+        "tamaño": "12104",
+        "distancia_sol": "10820893",
+        "distancia_tierra": "42000000",
+        "nombre": "Venus"
+    },
+    {
+        "id": "3",
+        "tamaño": "12756",
+        "distancia_sol": "149597870",
+        "distancia_tierra": "0",
+        "nombre": "Tierra"
+    },
+    {
+        "id": "4",
+        "tamaño": "6794",
+        "distancia_sol": "57910000",
+        "distancia_tierra": "75000000",
+        "nombre": "Marte"
+    },
+    {
+        "id": "5",
+        "tamaño": "142984",
+        "distancia_sol": "57910000",
+        "distancia_tierra": "75000000",
+        "nombre": "Jupiter"
+    },
+    {
+        "id": "6",
+        "tamaño": "108728",
+        "distancia_sol": "57910000",
+        "distancia_tierra": "75000000",
+        "nombre": "Saturno"
+    },
+    {
+        "id": "7",
+        "tamaño": "51118",
+        "distancia_sol": "57910000",
+        "distancia_tierra": "75000000",
+        "nombre": "Urano"
+    },
+    {
+        "id": "8",
+        "tamaño": "49532",
+        "distancia_sol": "57910000",
+        "distancia_tierra": "75000000",
+        "nombre": "Neptuno"
+    },
+    {
+        "id": "9",
+        "tamaño": "49532",
+        "distancia_sol": "57910000",
+        "distancia_tierra": "75000000",
+        "nombre": "Pluton"
+    },
+    {
+        "id": "10",
+        "tamaño": "1632",
+        "distancia_sol": "57910000",
+        "distancia_tierra": "75000000",
+        "nombre": "Haumea"
+    },
+    {
+        "id": "11",
+        "tamaño": "1430",
+        "distancia_sol": "57910000",
+        "distancia_tierra": "75000000",
+        "nombre": "Makemake"
+    },
+    {
+        "id": "12",
+        "tamaño": "2326",
+        "distancia_sol": "57910000",
+        "distancia_tierra": "75000000",
+        "nombre": "Eris"
+    },
+    {
+        "id": "13",
+        "tamaño": "946",
+        "distancia_sol": "57910000",
+        "distancia_tierra": "75000000",
+        "nombre": "ceres"
+    }
+]
