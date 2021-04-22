@@ -18,20 +18,20 @@
                 <div class="row g-3 align-items-center">
                     <div class="col-auto">
                         <div class="form-check">
-                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="mayoramenor">
-                            <label class="form-check-label" for="mayoramenor">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="uptodown" value="menor">
+                            <label class="form-check-label" for="uptodown">
                                 Ordenar Planetas de Mayor a Menor
                             </label>
                         </div>
                         <div class="form-check">
-                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="menoramayor">
-                            <label class="form-check-label" for="menoramayor">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="downtoup">
+                            <label class="form-check-label" for="downtoup">
                                 Ordenar Planetas de Menor a Mayor
                             </label>
                         </div>
                         <div class="form-check">
-                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="pornombre" checked>
-                            <label class="form-check-label" for="pornombre">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="name" checked>
+                            <label class="form-check-label" for="name">
                                 Ordenar Planetas Por su Nombre
                             </label>
                         </div>
@@ -48,7 +48,7 @@
                         <input type="text" id="input" class="form-control" aria-describedby="textHelp">
                     </div>
                     <div class="col-auto">
-                        <button type="button" class="btn btn-primary">Verificar</button>
+                        <button type="button" class="btn btn-primary" id="verify">Verificar</button>
                     </div>
                 </div>
             </div>
@@ -64,21 +64,21 @@
                                 <th scope="col">Distancia a la Tierra</th>
                             </tr>
                         </thead>
-                        <tbody>
-                            <tr>
-                                <th scope="row">1</th>
+                        <tbody id="push">
+                            <tr> 
+                                <td>1</td>
                                 <td>Mark</td>
                                 <td>Otto</td>
                                 <td>@mdo</td>
                             </tr>
                             <tr>
-                                <th scope="row">2</th>
+                                <td>2</td>
                                 <td>Jacob</td>
                                 <td>Thornton</td>
                                 <td>@fat</td>
                             </tr>
                             <tr>
-                                <th scope="row">3</th>
+                                <td>3</td>
                                 <td colspan="2">Larry the Bird</td>
                                 <td>@twitter</td>
                             </tr>
@@ -91,6 +91,8 @@
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
-    crossorigin="anonymous"></script>
+    crossorigin="anonymous">
+</script>
+<script src="main.js"></script>
 
 </html>
